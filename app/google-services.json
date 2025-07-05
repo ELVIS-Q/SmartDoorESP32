@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "343002755631",
+    "firebase_url": "https://esp32fb-f1b00-default-rtdb.firebaseio.com",
+    "project_id": "esp32fb-f1b00",
+    "storage_bucket": "esp32fb-f1b00.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343002755631:android:594e58e556fcc9d250ccda",
+        "android_client_info": {
+          "package_name": "com.example.esp32fb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCTd0EAEV6saBwapatzJWRvc49a4u1z7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
